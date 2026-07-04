@@ -6,7 +6,7 @@ This repository contains my solution for the [AIMS Kaggle 2k26 Competition](http
 ## 📊 Leaderboard Performance
 * **Private Leaderboard Score:** `0.88890` (Rank 46)
 * **Public Leaderboard Score:** `0.89255`
-* *(For context, the 1st place solution by Paras Pandita scored `0.92287`)*
+* *(For context, the 1st place solution scored `0.92287`)*
 
 ## 🧠 Approach & Architecture
 
