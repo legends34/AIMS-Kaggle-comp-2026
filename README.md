@@ -35,3 +35,4 @@ I evaluated both soft-voting and stacking approaches. Stacking proved more effec
 **Meta-Learner (Level 2):**
 * `LogisticRegression` acting as the final estimator, using a 3-fold cross-validation strategy on the base predictions.
 
+P.S. : This was also done 5 months earlier
