@@ -1,5 +1,4 @@
 # AIMS-Kaggle-comp-2026
-# AIMS Kaggle 2K26 - Top 50 Solution 
 
 This repository contains my solution for the [AIMS Kaggle 2k26 Competition](https://www.kaggle.com/competitions/aims-kaggle-2k26/overview). The model achieved **Rank 46** on the private leaderboard.
 
